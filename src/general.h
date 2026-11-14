@@ -34,9 +34,10 @@ inline double random_double(double min, double max) { // Return a real [min, max
 
 // Common Headers
 
+#include "interval.h"
 #include "ray.h"
 #include "vec3.h"
 #include "color.h"
-#include "interval.h"
+
 
 #endif
