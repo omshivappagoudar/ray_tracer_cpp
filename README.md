@@ -12,9 +12,9 @@ The program currently generates a 256 × 256 colour gradient in PPM format and r
 - [x] Build and run using Ubuntu through WSL
 - [x] Generate and view a PPM image
 - [x] Add scanline progress reporting
-- [ ] Implement the vector utilities
-- [ ] Add rays and a basic camera
-- [ ] Render a sphere
+- [x] Implement the vector utilities
+- [x] Add rays and a basic camera
+- [x] Render a sphere
 - [ ] Add materials and light scattering
 - [ ] Experiment with original scenes
 
